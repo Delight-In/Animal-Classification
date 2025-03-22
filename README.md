@@ -1,2 +1,2 @@
-# Animal Detection in an Image
+# Animal Detection In Image
 
