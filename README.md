@@ -1,5 +1,12 @@
 # Animal Classification
 
+Use Cases:
+* Wildlife Monitoring: Automatically identify and classify animals in wildlife photography or camera trap images.
+
+* Educational Applications: Can be used in educational tools to help users identify different animal species.
+
+* Conservation Efforts: Assists in identifying rare or endangered species for conservation research.
+
 ## Dataset:
 [Animal Detection Images Dataset](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)  
 - **80 Classes of Animals**
